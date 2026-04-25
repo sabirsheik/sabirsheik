@@ -9,7 +9,7 @@
 
 - 🔭 Currently developing real-world full stack applications with clean architecture  
 - 💼 Experienced in end-to-end development (Frontend → Backend → Deployment)  
-- 🛠️ Strong expertise in MERN stack with adaptability to modern technologies  
+- 🛠️ Strong expertise in Full stack with adaptability to modern technologies  
 - 🤝 Open to collaborating on startups, SaaS platforms, and innovative products  
 - 📚 Exploring AI integration, system design, and backend scalability  
 - 💬 Ask me about APIs, authentication, databases, and modern web architecture  
