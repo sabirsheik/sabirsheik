@@ -1,4 +1,4 @@
-# 👨‍💻 Sabir Ali | Full Stack Engineer
+# 👨‍💻 Sabir Ali Full Stack Engineer
 
 🚀 Building scalable, secure, and high-performance web applications  
 💡 Turning complex problems into clean, production-ready solutions  
