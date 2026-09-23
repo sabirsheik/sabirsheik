@@ -1,99 +1,172 @@
-# 👨‍💻 Sabir Ali Full Stack Engineer
-
-🚀 Building scalable, secure, and high-performance web applications  
-💡 Turning complex problems into clean, production-ready solutions  
-
----
-
-## 💫 About Me
-
-- 🔭 Currently developing real-world full stack applications with clean architecture  
-- 💼 Experienced in end-to-end development (Frontend → Backend → Deployment)  
-- 🛠️ Strong expertise in Full stack with adaptability to modern technologies  
-- 🤝 Open to collaborating on startups, SaaS platforms, and innovative products  
-- 📚 Exploring AI integration, system design, and backend scalability  
-- 💬 Ask me about APIs, authentication, databases, and modern web architecture  
-- ⚡ Focused on writing clean, maintainable, and scalable code  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabir-ali-837501340)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabir_ali_dev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SabirDev0)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SheikSabirAli)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabirsheik12787@gmail.com)
-
----
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi)
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
-
-## 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<!-- ==================== ANIMATED HEADER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,9,30&height=220&section=header&text=SABIR%20ALI&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Sabir Ali - Header" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable%2C+high-performance+web+apps;Modern+Frontend+%7C+APIs+%7C+Cloud+Databases;Turning+complex+logic+into+clean+code;Continuous+Learner+%26+Product+Mindset" alt="Typing Animation" />
+</a>
+
+<br />
+
+<!-- QUICK CONNECT PILLS -->
+<p align="center">
+  <a href="https://linkedin.com/in/sabir-ali-837501340">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://sabir-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sabirsheik12787@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/SheikSabirAli">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/sabir_ali_dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/SabirDev0">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### ⚡ Engineering Profile
 
-![](https://github-readme-stats.shion.dev/api?username=sabirsheik&theme=dark&hide_border=true)
-![](https://streak-stats.demolab.com/?user=sabirsheik&theme=dark&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sabirsheik&theme=dark&hide_border=true&layout=compact)
+```bash
+const sabirAli = {
+  role: "Full-Stack Engineer & Product Builder",
+  mindset: ["Clean Architecture", "Type-Safety", "Performance First"],
+  coreStack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "TailwindCSS"],
+  expanding: ["Python", "FastAPI", "Applied AI/ML", "System Design"],
+  status: "Open to High-Impact Roles & Innovative SaaS Collaborations"
+};
+```
+
+* 🔭 **Production Focus:** End-to-end full stack products with modern frontend architectures and resilient backend APIs.
+* ⚡ **Core Discipline:** Writing maintainable, well-typed, and modular code that scales predictably.
+* 🧩 **Deep Dive:** Complex state flows, authentication lifecycles (JWT/OAuth), and database query performance.
+* 🚀 **Current Horizon:** Expanding Python backend pipelines (FastAPI/SQLAlchemy) and practical AI integration.
 
 ---
 
-## 🧩 What I Focus On
+### 💻 Technologies & Stack
 
-- Clean and scalable architecture  
-- Performance optimization  
-- Secure authentication systems  
-- Responsive and modern UI/UX  
-- Real-world problem solving  
+<div align="center">
+
+#### 🎨 Frontend Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Backend & API Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+</p>
+
+#### 🗄️ Database & Cloud Services
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### 🛠️ DevOps & Engineering Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 Goals
+### 🐍 GitHub Contribution Activity
 
-- Build impactful SaaS products  
-- Contribute to open-source  
-- Master system design & AI integration  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sabirsheik/sabirsheik/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null;this.src='https://profile-readme-generator.com/assets/snake.svg';" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+### 📊 Engineering Analytics & Top Languages
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=sabirsheik&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117" alt="Sabir Ali's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabirsheik&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🎯 Core Principles & Focus
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  • Clean & Scalable Architecture      • Sub-second Latency & Caching   │
+│  • Contract-Driven REST & GraphQL     • Type Safety across Endpoints   │
+│  • Resilient Auth (JWT / OAuth2)      • Real-World SaaS Execution      │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ==================== ANIMATED FOOTER ==================== -->
+<div align="center">
+
+<p align="center">
+  <em>"Turning complex engineering challenges into elegant, reliable software."</em>
+</p>
+
+<p align="center">
+  <strong>© Sabir Ali • Full-Stack Engineer</strong>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,9,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
