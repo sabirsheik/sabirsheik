@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== ANIMATED HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,9,30&height=220&section=header&text=SABIR%20ALI&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Sabir Ali - Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=050811,0a1124,0f2552,1e40af,3b82f6,93c5fd,e0f2fe,ffffff&height=220&section=header&text=SABIR%20ALI&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Sabir Ali - Header" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -117,7 +117,7 @@ const sabirAli = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sabirsheik/sabirsheik/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null;this.src='https://profile-readme-generator.com/assets/snake.svg';" width="100%" alt="Contribution Snake Animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" alt="Sabir Ali's Contribution Snake Animation" />
 
 </div>
 
@@ -127,18 +127,15 @@ const sabirAli = {
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=sabirsheik&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&bg_color=0d1117" alt="Sabir Ali's GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sabirsheik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Sabir Ali's GitHub Stats" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="175" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabirsheik&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sabirsheik&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -167,6 +164,6 @@ const sabirAli = {
   <strong>© Sabir Ali • Full-Stack Engineer</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,9,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=050811,0a1124,0f2552,1e40af,3b82f6,93c5fd,e0f2fe,ffffff&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
