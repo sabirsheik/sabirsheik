@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== ANIMATED HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=050811,0a1124,0f2552,1e40af,3b82f6,93c5fd,e0f2fe,ffffff&height=220&section=header&text=SABIR%20ALI&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Sabir Ali - Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SABIR%20ALI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Product%20Engineer&descSize=16&descAlignY=55" alt="Sabir Ali - Header" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -130,7 +130,7 @@ const sabirAli = {
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sabirsheik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Sabir Ali's GitHub Stats" height="175" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabirsheik&layout=compact&hide=Jupyter%20Notebook&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
@@ -158,12 +158,10 @@ const sabirAli = {
 
 <p align="center">
   <em>"Turning complex engineering challenges into elegant, reliable software."</em>
-</p>
-
-<p align="center">
+  <br />
   <strong>© Sabir Ali • Full-Stack Engineer</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=050811,0a1124,0f2552,1e40af,3b82f6,93c5fd,e0f2fe,ffffff&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" alt="Sabir Ali - Footer" />
 
 </div>
