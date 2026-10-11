@@ -38,7 +38,6 @@
 </p>
 
 </div>
-
 ---
 
 ### ⚡ Engineering Profile
@@ -122,7 +121,7 @@ const sabirAli = {
 
 ---
 
-### 📊 Engineering Analytics & Top Languages
+📊 Engineering Analytics & Top Languages
 
 <div align="center">
 
