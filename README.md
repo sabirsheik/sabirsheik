@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable%2C+high-performance+web+apps;Modern+Frontend+%7C+APIs+%7C+Cloud+Databases;Turning+complex+logic+into+clean+code;Continuous+Learner+%26+Product+Mindset" alt="Typing Animation" />
 </a>
 <br />
-
 <!-- QUICK CONNECT PILLS -->
 <p align="center">
   <a href="https://linkedin.com/in/sabir-ali-837501340">
